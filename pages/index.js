@@ -6,6 +6,8 @@
 *
 *  Name: Agam Singh Talwar Student ID: 104495213 Date: March 22, 23
 *
+*  Vercel App (Deployed) Link: https://bt-a6.vercel.app/
+*
 ********************************************************************************/
 import { Image } from 'react-bootstrap'
 import MainNav from '@/components/MainNav'
